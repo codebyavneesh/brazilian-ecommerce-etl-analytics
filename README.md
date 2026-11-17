@@ -12,17 +12,17 @@ An end-to-end data analytics project: **Python (cleaning) â†’ MySQL (analysis) â
 **Page 1: Which Product Categories Drive Olist's Revenue?**
 Revenue, orders and customers by category.
 
-![Page 1](Dashboard/screenshots/page1_revenue_overview.png)
+![Page 1](https://github.com/codebyavneesh/brazilian-ecommerce-etl-analytics/blob/main/Screenshots/Screenshot%202026-11-16%20193011.png)
 
 **Page 2: Do Olist Customers Come Back to Buy Again?**
 Overall repeat rate, repeat customers' revenue share, and repeat rate by category.
 
-![Page 2](Dashboard/screenshots/page2_repeat_customers.png)
+![Page 2](https://github.com/codebyavneesh/brazilian-ecommerce-etl-analytics/blob/main/Screenshots/Screenshot%202026-11-16%20193020.png)
 
 **Page 3: Which Categories Combine Strong Revenue with Repeat Buyers?**
 Revenue and repeat rate side by side, compared with the overall category repeat rate.
 
-![Page 3](Dashboard/screenshots/page3_category_comparison.png)
+![Page 3](https://github.com/codebyavneesh/brazilian-ecommerce-etl-analytics/blob/main/Screenshots/Screenshot%202026-11-16%20193029.png)
 
 ---
 
